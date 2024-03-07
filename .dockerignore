@@ -1,9 +1,13 @@
 artifact
 visa
+artifact
+venv
+env
 .gitignore
 logs
 template.py
 demo.py
 README.md
-us_visa.egg-info
+LICENSE
+us_visa.egg.info
 notebook
